@@ -1,7 +1,7 @@
 # My Login Page
 <br />
 
-https://github.com/jagadeeshpj/flipr_lms
+https://github.com/Jahanzaibimr
 
 
 ## login page <br />
@@ -15,11 +15,8 @@ i had used remotetype database from https://www.freesqldatabase.com and mysql wo
  
  # Screenshots
  
- ## DESKTOP VIEW
- ![Screenshot (714)](https://user-images.githubusercontent.com/87519174/134881804-17d92b99-df57-47ed-ad21-08c14b4ffe37.png)
+
 <br />
-## MOBILE VIEW
-<img src="https://user-images.githubusercontent.com/87519174/134882631-3caeea38-3fb4-43bf-b4ac-cfdc207ae4b8.jpeg" width="400" height="790">
 
  
  
