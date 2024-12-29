@@ -48,7 +48,7 @@ function includeHTML() {
 <div class="bg-img">
   <div class="content">
     <header>Login Form</header>
-    <form action="https://jagadeeshpj.herokuapp.com/" method="POST">
+    <form action="" method="POST">
       <div class="field">
         <span class="fa fa-user"></span>
         <input type="text" required placeholder="Email or Phone">
@@ -99,19 +99,19 @@ includeHTML();
             Copyright &copy; 2021 All Rights Reserved
         </p>
         <div class="social">
-            <a href="https://github.com/jagadeeshpj" target="__blank"  style="color: #fff;">
+            <a href="https://github.com/Jahanzaibimr" target="__blank"  style="color: #fff;">
                 <i class="fab fa-github"></i>
             </a>
 
-            <a href="https://www.linkedin.com/in/p-jagadeesh-22923b18b/" target="__blank"  style="color: #fff;">
+            <a href="https://www.linkedin.com/in/syed-jahanzaib-47950a225/" target="__blank"  style="color: #fff;">
                 <i class="fab fa-linkedin"></i>
             </a>
             
-            <a href="https://www.instagram.com/jagadeesh2001/" target="__blank"  style="color: #fff;">
+            <a href="https://www.instagram.com/syed_jahanzaib96/" target="__blank"  style="color: #fff;">
                 <i class="fab fa-instagram"></i>
             </a>
 
-            <a href="https://www.facebook.com/jagadeesh.PJ.13/" target="__blank"  style="color: #fff;">
+            <a href="https://www.facebook.com/profile.php?id=100009504736950" target="__blank"  style="color: #fff;">
                 <i class="fab fa-facebook"></i>
             </a>
 
